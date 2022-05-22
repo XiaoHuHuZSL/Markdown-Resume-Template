@@ -16,7 +16,7 @@
 * 熟练使用Eclipse, IDEA 开发环境.
 * 熟练的使用Java 语言进行面向对象程序设计，有良好的编程习惯，熟悉常用的 Java API
 * 熟悉常用的关系型数据库产品 Mysql 的应用，熟练掌握SQL 语言.
-* 熟练使用主流框架Mybatis, Mybatis-Plus,Spring,SpringMVC,Spring boot 等进行项目开发熟悉Spring Cloud 微服务框架
+* 熟练使用主流框架Mybatis, Mybatis-Plus,Spring,SpringMVC,Spring boot 等进行项目开发熟悉Spring Cloud 微服务框架
 * 熟练使用Redis 进行缓存处理.
 * 熟悉NginX、Tomcat 等Web 服务器和负载均衡的配置、熟悉linux服务器
 * 熟练的使用Layui 和jQuery 进行Web 前端开发.
