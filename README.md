@@ -10,7 +10,7 @@
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.7~至今&emsp;&emsp;&emsp;&emsp;&emsp; 上海快仓智能科技 
+* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.6~至今&emsp;&emsp;&emsp;&emsp;&emsp; 上海快仓智能科技有限公司 
 ## 专业技能
 
 * 熟练使用Eclipse, IDEA 开发环境.
@@ -35,15 +35,6 @@
     * 运用了那些技术，技术难点是
     * 效果如何
     * demo演示地址，github地址 
-
-## 获奖经历
-* XXX 优秀新人
-* XXX 学生社团优秀干部
-* 竞赛 XXX 奖
-
-## 个人账号 
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
 
 ## 其他信息 
 * 喜欢钻研技术 等等
