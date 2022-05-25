@@ -28,17 +28,21 @@
   项目周期： 3个月。
   项目介绍：通过AGV与充电桩实现智能自动充电。
   开发环境：开发平台 Windows 开发工具 IDEA+Tomcat+MySQL 版本控制工具 GIT
-  相关技术：Spring Boot、MyBatis-Plus、JWT、Spring Cloud、微信小程序
+  相关技术：Spring Boot、MyBatis-Plus、JWT、Spring Cloud
 个人职责：
-    * 合照打卡：可以通过线上线下两种方式与雕塑进行合照打卡,获取全国排名
-    * 后台审核：后台管理员登录web后台对参与审核的照片进行审核,修改照片的状态
-    * 消息推送：后台两轮审核通过之后通过调用小程序接口的通知用户审核结果
+    * 生成充电任务：
+    * 充电任务执行：
+    * 充电任务完成：
 
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
+2. AGV智能洗轮
+  项目周期： 3个月。
+  项目介绍：通过AGV与洗轮机实现智能自动洗轮。
+  开发环境：开发平台 Windows 开发工具 IDEA+Tomcat+MySQL 版本控制工具 GIT
+  相关技术：Spring Boot、MyBatis-Plus、JWT、Spring Cloud
+个人职责：
+    * 生成洗轮任务：
+    * 洗轮任务执行：
+    * 洗轮任务完成：
 
 ## 其他信息 
 * 喜欢钻研技术 等等
