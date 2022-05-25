@@ -24,9 +24,9 @@
 
 ## 项目经历
 
-1. 圆梦冰雪
+1. AGV智能充电
   项目周期： 3个月。
-  项目介绍：通过与冬奥雕塑合照打卡,来获取一个全国的排名。
+  项目介绍：通过AGV与充电桩实现智能自动充电。
   开发环境：开发平台 Windows 开发工具 IDEA+Tomcat+MySQL 版本控制工具 GIT
   相关技术：Spring Boot、MyBatis-Plus、JWT、Spring Cloud、微信小程序
 个人职责：
