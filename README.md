@@ -29,6 +29,7 @@
   项目介绍：通过AGV与充电桩实现智能自动充电。
   开发环境：开发平台 Windows 开发工具 IDEA+Tomcat+MySQL 版本控制工具 GIT
   相关技术：Spring Boot、MyBatis-Plus、JWT、Spring Cloud
+  
 个人职责：
     * 生成充电任务：低电量充电处理器、获取所有需要充电的小车、
     小车满足充电预值 从pd信息  小车温度要小于充电温度  下发充电任务
