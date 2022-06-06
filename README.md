@@ -5,7 +5,7 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：23 
-* 手 机：15203799522 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：2247795710@qq.com    
+* 手 机：15203799522 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; &ensp; 邮 箱：2247795710@qq.com    
 * 专 业：计算机应用与技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：java开发
 
 ## 工作及教育经历
