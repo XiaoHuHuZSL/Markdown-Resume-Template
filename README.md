@@ -14,13 +14,21 @@
 ## 专业技能
 
 * 熟练使用Eclipse, IDEA 开发环境.
+
 * 熟练的使用Java 语言进行面向对象程序设计，有良好的编程习惯，熟悉常用的 Java API
-* 熟悉常用的关系型数据库产品 Mysql 的应用，熟练掌握SQL 语言.
+
+* 熟悉常用的关系型数据库产品 Mysql 的应用，熟练掌握SQL 语言
+
 * 熟练使用主流框架Mybatis, Mybatis-Plus,Spring,SpringMVC,Spring boot 等进行项目开发熟悉Spring Cloud 微服务框架
+
 * 熟练使用Redis 进行缓存处理.
+
 * 熟悉NginX、Tomcat 等Web 服务器和负载均衡的配置、熟悉linux服务器
+
 * 熟练的使用Layui 和jQuery 进行Web 前端开发.
+
 * 熟练的使用软件版本控制工具 Git.
+
 
 ## 项目经历
 
@@ -45,9 +53,6 @@
     * 充电失败：清错、判断充电失败类型  是否符合条件
     
     * 低电量为增长：判断充电重试次数 、将任务移到历史表 、删除任务重新下发充电任务 、大于重试次数报错
-    
-    
-    
     
     
 2. AGV智能洗轮
